@@ -1,20 +1,50 @@
 
-![App Name](https://github.com/CHINCHU321/YouTube-Clone/blob/main/ScreenShots/projectname.png?raw=true)
+![App Name](https://github.com/CHINCHU321/YouTube-Clone/blob/main/ScreenShots/title.png?raw=true)
 
 
 This is a basic web app build using HTML and CSS.
 
-## Screenshots
+## Key Topics used
 
-![App Screenshot](https://github.com/CHINCHU321/YouTube-Clone/blob/main/ScreenShots/img.png?raw=true)
+The following topics will be covered in this unit:
 
+- Command-line basics
 
-## Tech Stack
+    - Navigating the file tree
 
-HTML
+    - Creating, copying, and removing files and directories
 
-CSS
+- HTML
 
+    - Semantic elements, tags
+
+    - Attributes
+
+    - Best practices: indentation, file naming conventions and directory structure
+
+- CSS
+
+    - Order of importance
+    - Class, id
+    - Selectors
+    - Box model
+    - Display
+    - Positioning and floats
+    - Color: hexadecimal, rgb and named
+    - Flexbox
+    - Grid
+
+- Git & Git workflow
+
+   - git add
+   - git commit
+   - git push
+   - git pull
+
+- GitHub
+
+    - Create a repository
+    - Deploy to personal pages
 
 
 
@@ -27,3 +57,8 @@ Install my-project with npm
   cd my-project
 ```
     
+## Screenshots
+
+![App Screenshot](https://github.com/CHINCHU321/YouTube-Clone/blob/main/ScreenShots/image1.png?raw=true)
+
+
